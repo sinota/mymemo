@@ -28,3 +28,7 @@ $ git checkout -b my-edit origin/my-edit
 6. Merge the pull request  
 and delete the branch my-edit.
 7. Pull master to the local.
+
+
+## Author
+waterman
